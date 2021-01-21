@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Teste-Api-Github
+                    Teste-Api-Github - {{$contador}}
                 </div>
 
                 <div class="links">
